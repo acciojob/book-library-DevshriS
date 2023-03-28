@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+body{
+    background-color:#f8f8f8;
+    }
+    h1{
+        text-align:center;
+    }
+    .book-library{
+        background-color:#ffffff;
+        width: 200px;
+    }
+    .book div{
+        background-color:#2ecc71;
+        border-radius:20px;
+        color:white;
+    }
+    p{
+        color:#777777;
+    }
+    
